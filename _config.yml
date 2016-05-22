@@ -1,0 +1,28 @@
+name: Suena
+favicon: null
+layout_spectrum: 0.7387358718551695
+typography_spectrum: 0.3871786391828209
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9957754011265934
+  lightness: 0.8993882117792964
+  saturation: 0.15927034080959857
+  rhythmicContrast: 0.6327826816122979
+purpose: []
