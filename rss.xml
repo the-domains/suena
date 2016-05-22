@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Suena]]></title>
         <description><![CDATA[Suena]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/suena/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 15:10:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 May 2016 15:31:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/suena/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Suena International]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb1e7524-8702-46d2-bf5d-ebd7e289eba4.png">]]></description>
+            <link>https://thegrid.ai/suena/suena-international/index.html</link>
+            <guid isPermaLink="false">567e8303-7d03-4690-ba99-a2f4509ff0e3</guid>
+            <pubDate>Sun, 22 May 2016 15:31:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/376ffedd-011b-4373-a1ef-9f691597db84.jpg">]]></description>
-            <link>undefined15ecb358-c35a-41e3-adb6-a5b3cc7d79f5/index.html</link>
+            <link>https://thegrid.ai/suena/15ecb358-c35a-41e3-adb6-a5b3cc7d79f5/index.html</link>
             <guid isPermaLink="false">15ecb358-c35a-41e3-adb6-a5b3cc7d79f5</guid>
             <pubDate>Sun, 22 May 2016 15:09:55 GMT</pubDate>
         </item>
